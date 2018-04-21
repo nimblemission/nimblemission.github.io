@@ -7,21 +7,21 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## Goddard Space Flight Center
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/teamphotos/josh.jpg" | absolute_url }}" alt="" /></span>
+### Josh Schlieder (PI)
+Reinhold Schneider (Baden-Baden, May 13, 1903 – Freiburg im Breisgau, April 6, 1958) was a German poet who also wrote novels. Initially his works were less religious, but later his poetry had a Christian and specifically Catholic influence. His first works included ones about Luís de Camões and Portugal.
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+He had written anti-war poems, which were banned in Nazi Germany. Las Casas (1938) had analysed the ways Christians should respond to state oppression, and had criticised Nazi persecution and anti-Semitism; this led to the ban on publishing his works.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+During the war associates of Schneider were in the 'Kreisau Circle' and the 'Freiburger Konzil' which had links with anti-Nazi resistance. His works were still published in Karl Ludwig Freiherr von und zu Guttenbergs journal White Papers and "underground", and tracts were distributed to soldiers at the front. Though he was accused of treason by authoring defeatist literature, the war ended before he could be tried.
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+## Mission Mascot
+<span class="image left"><img src="{{ "/images/teamphotos/Fennec_Fox.jpg" | absolute_url }}" alt="" /></span>
+### Fennec Fox 
+The fennec fox or fennec (Vulpes zerda) is a small nocturnal fox found in the Sahara of North Africa, the Sinai Peninsula, and the Arabian desert. Its most distinctive feature is its unusually large ears, which also serve to dissipate heat. Its name comes from the Berber word (fanak), which means fox, and the species name zerda comes from the Greek word xeros which means dry, referring to the fox's habitat.[2] The fennec is the smallest species of canid. Its coat, ears, and kidney functions have adapted to high-temperature, low-water, desert environments. Also, its hearing is sensitive enough to hear prey moving underground. It mainly eats insects, small mammals, and birds.
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<!-- <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+### Deputy Principal Investigator -->
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
