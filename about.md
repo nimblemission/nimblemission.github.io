@@ -17,15 +17,38 @@ He had written anti-war poems, which were banned in Nazi Germany. Las Casas (193
 
 During the war associates of Schneider were in the 'Kreisau Circle' and the 'Freiburger Konzil' which had links with anti-Nazi resistance. His works were still published in Karl Ludwig Freiherr von und zu Guttenbergs journal White Papers and "underground", and tracts were distributed to soldiers at the front. Though he was accused of treason by authoring defeatist literature, the war ended before he could be tried.
 
-### Judy Racusin
-
-### Jeremy Perkins
+### Giada Arney
 
 <span class="image right"><img src="{{ "/images/teamphotos/padi.jpg" | absolute_url }}" alt="" /></span>
 ### Padi Boyd
 Padi Boyd is the Chief of the Exoplanets and Stellar Astrophysics Laboratory in the Astrophysics Science Division, and the director of the Guest Investigator Program for the Transiting Exoplanet Survey Satellite (TESS) Mission (a NASA Explorer Mission launching in 2018). She has been at Goddard since 1993, when she was a USRA visiting scientist with the High Speed Photometer and Polarimeter Team aboard the Hubble Space Telescope, studying the optical and ultraviolet polarization seen in X-ray binaries, pulsars and active galaxies.
 
 In 1995, Boyd joined the Monitoring X-ray Experiment team, an X-ray all-sky monitor that was in development and testing as part of the Russian-led Spectrum X-Gamma mission. In 1997, she joined the Rossi X-ray Timing Experiment Guest Observer Facility performing science support for that mission. From 2003 to 2008, she managed that facility, as well as the Swift Science Center. Padi spent a two-year detail at NASA Headquarters in Washington as the program scientist for the Kepler mission. While at NASA Headquarters, she was also the NASA point of contact for the MOST U.S. Guest Observer program and also served as a discipline scientist for X-ray and gamma-ray astronomy. She was also the Program Officer for the Origins of Solar Systems Exoplanets program. Since returning to Goddard in 2010, she has held a number of positions including Deputy Project Scientist for Operations of the Hubble Space Telescope, Associate Chief of the Astroparticle Physics Laboratory, Acting Deputy Director of the Astrophysics Division, and Associate Director of the Astrophysics Division.
+
+### Brad Cenko
+
+### Qian Gong
+
+### Eric Lopez
+
+<span class="image right"><img src="{{ "/images/teamphotos/julie.jpeg" | absolute_url }}" alt="" /></span>
+### Julie McEnery
+​Julie McEnery is the Project Scientist for the Fermi gamma-ray Space Telescope and an astrophysicist in the Astrophysics Science Division of NASA's Goddard Space Flight Center. She is co-Director of the Joint Space Science Institute between Goddard Space Flight Center and the University of Maryland. In 2011, she was elected a fellow of the American Physical Society.
+
+As Fermi Project Scientist, a role she took on in 2009, Julie provides scientific guidance and information to mission staff, working with all elements of the mission -- from instrument teams to mission operations. These efforts will maximize scientific return from the observatory. She is involved in all LAT science topics, as well as with team science activities such as low-level simulations, analysis development, and publication planning.
+
+### Jeremy Perkins
+
+### Judy Racusin
+
+### Maxime Rizzo
+
+### Allison Youngblood
+
+
+
+
+
 
 
 ## Mission Mascot
