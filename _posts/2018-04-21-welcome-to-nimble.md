@@ -7,4 +7,5 @@ image: "/images/pic02.jpg"
 ---
 
 ## Why Nimble, why now?
+Because
 

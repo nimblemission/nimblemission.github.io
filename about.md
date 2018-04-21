@@ -1,21 +1,32 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: Meet the team
+description: The greatest and best team in the world
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2018-04-21
     changefreq: weekly
 ---
 ## Goddard Space Flight Center
 
-<span class="image left"><img src="{{ "/images/teamphotos/josh.jpg" | absolute_url }}" alt="" /></span>
+<span class="image right"><img src="{{ "/images/teamphotos/josh.jpg" | absolute_url }}" alt="" /></span>
 ### Josh Schlieder (PI)
-Reinhold Schneider (Baden-Baden, May 13, 1903 – Freiburg im Breisgau, April 6, 1958) was a German poet who also wrote novels. Initially his works were less religious, but later his poetry had a Christian and specifically Catholic influence. His first works included ones about Luís de Camões and Portugal.
+Reinhold Schneider was a German poet who also wrote novels. Initially his works were less religious, but later his poetry had a Christian and specifically Catholic influence. His first works included ones about Luís de Camões and Portugal.
 
 He had written anti-war poems, which were banned in Nazi Germany. Las Casas (1938) had analysed the ways Christians should respond to state oppression, and had criticised Nazi persecution and anti-Semitism; this led to the ban on publishing his works.
 
 During the war associates of Schneider were in the 'Kreisau Circle' and the 'Freiburger Konzil' which had links with anti-Nazi resistance. His works were still published in Karl Ludwig Freiherr von und zu Guttenbergs journal White Papers and "underground", and tracts were distributed to soldiers at the front. Though he was accused of treason by authoring defeatist literature, the war ended before he could be tried.
+
+### Judy Racusin
+
+### Jeremy Perkins
+
+<span class="image right"><img src="{{ "/images/teamphotos/padi.jpg" | absolute_url }}" alt="" /></span>
+### Padi Boyd
+Padi Boyd is the Chief of the Exoplanets and Stellar Astrophysics Laboratory in the Astrophysics Science Division, and the director of the Guest Investigator Program for the Transiting Exoplanet Survey Satellite (TESS) Mission (a NASA Explorer Mission launching in 2018). She has been at Goddard since 1993, when she was a USRA visiting scientist with the High Speed Photometer and Polarimeter Team aboard the Hubble Space Telescope, studying the optical and ultraviolet polarization seen in X-ray binaries, pulsars and active galaxies.
+
+In 1995, Boyd joined the Monitoring X-ray Experiment team, an X-ray all-sky monitor that was in development and testing as part of the Russian-led Spectrum X-Gamma mission. In 1997, she joined the Rossi X-ray Timing Experiment Guest Observer Facility performing science support for that mission. From 2003 to 2008, she managed that facility, as well as the Swift Science Center. Padi spent a two-year detail at NASA Headquarters in Washington as the program scientist for the Kepler mission. While at NASA Headquarters, she was also the NASA point of contact for the MOST U.S. Guest Observer program and also served as a discipline scientist for X-ray and gamma-ray astronomy. She was also the Program Officer for the Origins of Solar Systems Exoplanets program. Since returning to Goddard in 2010, she has held a number of positions including Deputy Project Scientist for Operations of the Hubble Space Telescope, Associate Chief of the Astroparticle Physics Laboratory, Acting Deputy Director of the Astrophysics Division, and Associate Director of the Astrophysics Division.
+
 
 ## Mission Mascot
 <span class="image left"><img src="{{ "/images/teamphotos/Fennec_Fox.jpg" | absolute_url }}" alt="" /></span>
