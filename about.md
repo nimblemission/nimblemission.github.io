@@ -134,11 +134,11 @@ sitemap:
 ### Fennec Fox 
 <div class="box alt">
     <div class="row 50% uniform">
-        <div class="9u">
-            The fennec fox or fennec (Vulpes zerda) is a small nocturnal fox found in the Sahara of North Africa, the Sinai Peninsula, and the Arabian desert. Its most distinctive feature is its unusually large ears, which also serve to dissipate heat. Its name comes from the Berber word (fanak), which means fox, and the species name zerda comes from the Greek word xeros which means dry, referring to the fox's habitat.[2] The fennec is the smallest species of canid. Its coat, ears, and kidney functions have adapted to high-temperature, low-water, desert environments. Also, its hearing is sensitive enough to hear prey moving underground. It mainly eats insects, small mammals, and birds.
-        </div>
         <div class="3u">
             <span class="image fit"><img src="{{ "/images/teamphotos/Fennec_Fox.jpg" | absolute_url }}" alt="" /></span>
+        </div>
+        <div class="9u">
+            The fennec fox or fennec (Vulpes zerda) is a small nocturnal fox found in the Sahara of North Africa, the Sinai Peninsula, and the Arabian desert. Its most distinctive feature is its unusually large ears, which also serve to dissipate heat. Its name comes from the Berber word (fanak), which means fox, and the species name zerda comes from the Greek word xeros which means dry, referring to the fox's habitat. The fennec is the smallest species of canid. Its coat, ears, and kidney functions have adapted to high-temperature, low-water, desert environments. Also, its hearing is sensitive enough to hear prey moving underground. It mainly eats insects, small mammals, and birds.
         </div>
     </div>
 </div>
