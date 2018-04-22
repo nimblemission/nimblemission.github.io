@@ -112,6 +112,8 @@ sitemap:
 
 ### Judy Racusin
 
+### Stephen Rinehart
+
 ### Maxime Rizzo
 
 ### Allison Youngblood
