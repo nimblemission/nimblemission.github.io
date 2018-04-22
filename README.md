@@ -1,2 +1,2 @@
 # nimblemission.github.io
-public website for the nimble mission concept
+public website for the nimble explorer concept
