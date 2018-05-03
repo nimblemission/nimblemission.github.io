@@ -39,7 +39,7 @@ sitemap:
 <div class="box alt">
     <div class="row 50% uniform">
         <div class="9u">
-            Padi Boyd is the Chief of the Exoplanets and Stellar Astrophysics Laboratory in the Astrophysics Science Division, and the Deputy Project Scientist for the Transiting Exoplanet Survey Satellite (TESS) Mission. She has been at Goddard since 1993, when she was a USRA visiting scientist with the High Speed Photometer and Polarimeter Team aboard the Hubble Space Telescope, studying the optical and ultraviolet polarization seen in X-ray binaries, pulsars and active galaxies.
+            Padi is the Chief of the Exoplanets and Stellar Astrophysics Laboratory in the Astrophysics Science Division, and the Deputy Project Scientist for the Transiting Exoplanet Survey Satellite (TESS) Mission. She has been at Goddard since 1993, when she was a USRA visiting scientist with the High Speed Photometer and Polarimeter Team aboard the Hubble Space Telescope, studying the optical and ultraviolet polarization seen in X-ray binaries, pulsars and active galaxies.
             <br>
             In 1995, Boyd joined the Monitoring X-ray Experiment team, an X-ray all-sky monitor that was in development and testing as part of the Russian-led Spectrum X-Gamma mission. In 1997, she joined the Rossi X-ray Timing Experiment Guest Observer Facility performing science support for that mission. From 2003 to 2008, she managed that facility, as well as the Swift Science Center. Padi spent a two-year detail at NASA Headquarters in Washington as the program scientist for the Kepler mission. While at NASA Headquarters, she was also the NASA point of contact for the MOST U.S. Guest Observer program and also served as a discipline scientist for X-ray and gamma-ray astronomy. She was also the Program Officer for the Origins of Solar Systems Exoplanets program. Since returning to Goddard in 2010, she has held a number of positions including Deputy Project Scientist for Operations of the Hubble Space Telescope, Associate Chief of the Astroparticle Physics Laboratory, Acting Deputy Director of the Astrophysics Division, and Associate Director of the Astrophysics Division.
         </div>
@@ -53,54 +53,62 @@ sitemap:
 
 
 ### Brad Cenko
-<!-- <div class="box alt">
+<div class="box alt">
     <div class="row 50% uniform">
         <div class="9u">
-            Padi Boyd is the Chief of the Exoplanets and Stellar Astrophysics Laboratory in the Astrophysics Science Division, and the director of the Guest Investigator Program for the Transiting Exoplanet Survey Satellite (TESS) Mission (a NASA Explorer Mission launching in 2018). She has been at Goddard since 1993, when she was a USRA visiting scientist with the High Speed Photometer and Polarimeter Team aboard the Hubble Space Telescope, studying the optical and ultraviolet polarization seen in X-ray binaries, pulsars and active galaxies.
-            <br>
-            In 1995, Boyd joined the Monitoring X-ray Experiment team, an X-ray all-sky monitor that was in development and testing as part of the Russian-led Spectrum X-Gamma mission. In 1997, she joined the Rossi X-ray Timing Experiment Guest Observer Facility performing science support for that mission. From 2003 to 2008, she managed that facility, as well as the Swift Science Center. Padi spent a two-year detail at NASA Headquarters in Washington as the program scientist for the Kepler mission. While at NASA Headquarters, she was also the NASA point of contact for the MOST U.S. Guest Observer program and also served as a discipline scientist for X-ray and gamma-ray astronomy. She was also the Program Officer for the Origins of Solar Systems Exoplanets program. Since returning to Goddard in 2010, she has held a number of positions including Deputy Project Scientist for Operations of the Hubble Space Telescope, Associate Chief of the Astroparticle Physics Laboratory, Acting Deputy Director of the Astrophysics Division, and Associate Director of the Astrophysics Division.
-        </div>
-        <div class="3u">
-            <span class="image fit"><img src="{{ "/images/teamphotos/padi.jpg" | absolute_url }}" alt="" /></span>
+            Brad is PI of the the Neil Gehrels Swift Observatory. His research interests lie in studying time-domain phenomena such as gamma-ray bursts, supernovae, and tidal disruption flares.
         </div>
     </div>
-</div> -->
+</div>
 
 ### Qian Gong
-<!-- <div class="box alt">
+<div class="box alt">
     <div class="row 50% uniform">
         <div class="9u">
-            Padi Boyd is the Chief of the Exoplanets and Stellar Astrophysics Laboratory in the Astrophysics Science Division, and the director of the Guest Investigator Program for the Transiting Exoplanet Survey Satellite (TESS) Mission (a NASA Explorer Mission launching in 2018). She has been at Goddard since 1993, when she was a USRA visiting scientist with the High Speed Photometer and Polarimeter Team aboard the Hubble Space Telescope, studying the optical and ultraviolet polarization seen in X-ray binaries, pulsars and active galaxies.
-            <br>
-            In 1995, Boyd joined the Monitoring X-ray Experiment team, an X-ray all-sky monitor that was in development and testing as part of the Russian-led Spectrum X-Gamma mission. In 1997, she joined the Rossi X-ray Timing Experiment Guest Observer Facility performing science support for that mission. From 2003 to 2008, she managed that facility, as well as the Swift Science Center. Padi spent a two-year detail at NASA Headquarters in Washington as the program scientist for the Kepler mission. While at NASA Headquarters, she was also the NASA point of contact for the MOST U.S. Guest Observer program and also served as a discipline scientist for X-ray and gamma-ray astronomy. She was also the Program Officer for the Origins of Solar Systems Exoplanets program. Since returning to Goddard in 2010, she has held a number of positions including Deputy Project Scientist for Operations of the Hubble Space Telescope, Associate Chief of the Astroparticle Physics Laboratory, Acting Deputy Director of the Astrophysics Division, and Associate Director of the Astrophysics Division.
-        </div>
-        <div class="3u">
-            <span class="image fit"><img src="{{ "/images/teamphotos/padi.jpg" | absolute_url }}" alt="" /></span>
+            Qian is a research engineer and leads the Nimble optical design.
         </div>
     </div>
-</div> -->
+</div>
 
-### Eric Lopez
-<!-- <div class="box alt">
+### Sarah Logsdon
+<div class="box alt">
     <div class="row 50% uniform">
         <div class="9u">
-            Padi Boyd is the Chief of the Exoplanets and Stellar Astrophysics Laboratory in the Astrophysics Science Division, and the director of the Guest Investigator Program for the Transiting Exoplanet Survey Satellite (TESS) Mission (a NASA Explorer Mission launching in 2018). She has been at Goddard since 1993, when she was a USRA visiting scientist with the High Speed Photometer and Polarimeter Team aboard the Hubble Space Telescope, studying the optical and ultraviolet polarization seen in X-ray binaries, pulsars and active galaxies.
-            <br>
-            In 1995, Boyd joined the Monitoring X-ray Experiment team, an X-ray all-sky monitor that was in development and testing as part of the Russian-led Spectrum X-Gamma mission. In 1997, she joined the Rossi X-ray Timing Experiment Guest Observer Facility performing science support for that mission. From 2003 to 2008, she managed that facility, as well as the Swift Science Center. Padi spent a two-year detail at NASA Headquarters in Washington as the program scientist for the Kepler mission. While at NASA Headquarters, she was also the NASA point of contact for the MOST U.S. Guest Observer program and also served as a discipline scientist for X-ray and gamma-ray astronomy. She was also the Program Officer for the Origins of Solar Systems Exoplanets program. Since returning to Goddard in 2010, she has held a number of positions including Deputy Project Scientist for Operations of the Hubble Space Telescope, Associate Chief of the Astroparticle Physics Laboratory, Acting Deputy Director of the Astrophysics Division, and Associate Director of the Astrophysics Division.
-        </div>
-        <div class="3u">
-            <span class="image fit"><img src="{{ "/images/teamphotos/padi.jpg" | absolute_url }}" alt="" /></span>
+            Sarah is a NASA Postdoctoral Program fellow working on astronomical instrumentation from the NEID spectrograph.
         </div>
     </div>
-</div> -->
+</div>
+### Eric Lopez
+<div class="box alt">
+    <div class="row 50% uniform">
+        <div class="9u">
+            Eric's research focuses on modeling the structure and evolution of exoplanets and on connecting those models to observations both for well-studied individual exoplanets and with planet population statistics. In particular, Eric focuses on modeling compositions and evolution of hot low-mass transiting planets through atmospheric escape due to ionizing radiation. In addition, he is heavily involved in efforts to identify targets for follow-up with RVs and HST to test the predictions of planet formation and evolution models.
+        </div>
+        <div class="3u">
+            <span class="image fit"><img src="{{ "/images/teamphotos/eric.jpg" | absolute_url }}" alt="" /></span>
+        </div>
+    </div>
+</div>
+
+### Michael McElwain
+<div class="box alt">
+    <div class="row 50% uniform">
+        <div class="9u">
+            Mike is a Research Astrophysicist, Exoplanets and Stellar Astrophysics Lab, NASA Goddard Space Flight Center, and serves as the the JWST Observatory project scientist, McElwain is responsible for technical issues related to the Observatory, including the telescope, sunshield, and spacecraft. He is also leading several projects to advance high contrast imaging technology.
+        </div>
+        <div class="3u">
+            <span class="image fit"><img src="{{ "/images/teamphotos/mike.jpg" | absolute_url }}" alt="" /></span>
+        </div>
+    </div>
+</div>
 
 ### Julie McEnery
 <div class="box alt">
     <div class="row 50% uniform">
         <div class="9u">
-            Julie McEnery is the Project Scientist for the Fermi gamma-ray Space Telescope and an astrophysicist in the Astrophysics Science Division of NASA's Goddard Space Flight Center. She is co-Director of the Joint Space Science Institute between Goddard Space Flight Center and the University of Maryland. In 2011, she was elected a fellow of the American Physical Society.
+            Julie is the Project Scientist for the Fermi gamma-ray Space Telescope and an astrophysicist in the Astrophysics Science Division of NASA's Goddard Space Flight Center. She is co-Director of the Joint Space Science Institute between Goddard Space Flight Center and the University of Maryland. In 2011, she was elected a fellow of the American Physical Society.
             <br>
-            As Fermi Project Scientist, a role she took on in 2009, Julie provides scientific guidance and information to mission staff, working with all elements of the mission -- from instrument teams to mission operations. These efforts will maximize scientific return from the observatory. She is involved in all LAT science topics, as well as with team science activities such as low-level simulations, analysis development, and publication planning.
+            As Fermi Project Scientist, a role she took on in 2009, Julie provides scientific guidance and information to mission staff, working with all elements of the mission, from instrument teams to mission operations. These efforts will maximize scientific return from the observatory. She is involved in all LAT science topics, as well as with team science activities such as low-level simulations, analysis development, and publication planning.
         </div>
         <div class="3u">
             <span class="image fit"><img src="{{ "/images/teamphotos/julie.jpeg" | absolute_url }}" alt="" /></span>
@@ -113,23 +121,76 @@ sitemap:
 ### Judy Racusin
 
 ### Stephen Rinehart
+<div class="box alt">
+    <div class="row 50% uniform">
+        <div class="9u">
+            Stephen is the TESS project scientist and principal investigator of the Balloon Experimental Twin Telescope for Infrared Interferometry (BETTII). 
+        </div>
+    </div>
+</div>
 
 ### Maxime Rizzo
+<div class="box alt">
+    <div class="row 50% uniform">
+        <div class="9u">
+            Maxime is a NASA Postdoctoral Program fellow who works on telescope instrumentation design. he has been involved in the BETTII and WFIRST projects.
+        </div>
+    </div>
+</div>
 
 ### Allison Youngblood
-
+<div class="box alt">
+    <div class="row 50% uniform">
+        <div class="9u">
+            Allison is a NASA Postdoctoral Program fellow who studies the high-energy radiation and particle environment around M dwarfs, the Sun as a star, and shocks and fluorescence traced by molecular hydrogen.
+        </div>
+        <div class="3u">
+            <span class="image fit"><img src="{{ "/images/teamphotos/allison.jpg" | absolute_url }}" alt="" /></span>
+        </div>
+    </div>
+</div>
 
 <!-- ## University of Maryland, Baltimore County
 ### Tom Barclay -->
+<!-- <div class="box alt">
+    <div class="row 50% uniform">
+        <div class="9u">
+            Tom ...
+        </div>
+        <div class="3u">
+            <span class="image fit"><img src="{{ "/images/teamphotos/tom.jpg" | absolute_url }}" alt="" /></span>
+        </div>
+    </div>
+</div> -->
 
 
 <!-- 
 ## Ames Research Center
-### Steve Howell
+### Steve Howell -->
+<!-- <div class="box alt">
+    <div class="row 50% uniform">
+        <div class="9u">
+            Tom ...
+        </div>
+        <div class="3u">
+            <span class="image fit"><img src="{{ "/images/teamphotos/steve.jpg" | absolute_url }}" alt="" /></span>
+        </div>
+    </div>
+</div> -->
 
-
+<!--
 ## Australian National University
 ### Brad Tucker -->
+<!-- <div class="box alt">
+    <div class="row 50% uniform">
+        <div class="9u">
+            Tom ...
+        </div>
+        <div class="3u">
+            <span class="image fit"><img src="{{ "/images/teamphotos/bradtucker.jpg" | absolute_url }}" alt="" /></span>
+        </div>
+    </div>
+</div> -->
 
 
 ## Mission Mascot
