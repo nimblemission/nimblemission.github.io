@@ -39,7 +39,7 @@ sitemap:
 <div class="box alt">
     <div class="row 50% uniform">
         <div class="9u">
-            Padi Boyd is the Chief of the Exoplanets and Stellar Astrophysics Laboratory in the Astrophysics Science Division, and the director of the Guest Investigator Program for the Transiting Exoplanet Survey Satellite (TESS) Mission (a NASA Explorer Mission launching in 2018). She has been at Goddard since 1993, when she was a USRA visiting scientist with the High Speed Photometer and Polarimeter Team aboard the Hubble Space Telescope, studying the optical and ultraviolet polarization seen in X-ray binaries, pulsars and active galaxies.
+            Padi Boyd is the Chief of the Exoplanets and Stellar Astrophysics Laboratory in the Astrophysics Science Division, and the Deputy Project Scientist for the Transiting Exoplanet Survey Satellite (TESS) Mission. She has been at Goddard since 1993, when she was a USRA visiting scientist with the High Speed Photometer and Polarimeter Team aboard the Hubble Space Telescope, studying the optical and ultraviolet polarization seen in X-ray binaries, pulsars and active galaxies.
             <br>
             In 1995, Boyd joined the Monitoring X-ray Experiment team, an X-ray all-sky monitor that was in development and testing as part of the Russian-led Spectrum X-Gamma mission. In 1997, she joined the Rossi X-ray Timing Experiment Guest Observer Facility performing science support for that mission. From 2003 to 2008, she managed that facility, as well as the Swift Science Center. Padi spent a two-year detail at NASA Headquarters in Washington as the program scientist for the Kepler mission. While at NASA Headquarters, she was also the NASA point of contact for the MOST U.S. Guest Observer program and also served as a discipline scientist for X-ray and gamma-ray astronomy. She was also the Program Officer for the Origins of Solar Systems Exoplanets program. Since returning to Goddard in 2010, she has held a number of positions including Deputy Project Scientist for Operations of the Hubble Space Telescope, Associate Chief of the Astroparticle Physics Laboratory, Acting Deputy Director of the Astrophysics Division, and Associate Director of the Astrophysics Division.
         </div>
@@ -137,7 +137,7 @@ sitemap:
 <div class="box alt">
     <div class="row 50% uniform">
         <div class="3u">
-            <span class="image fit"><img src="{{ "/images/teamphotos/Fennec_Fox.jpg" | absolute_url }}" alt="" /></span>
+            <span class="image fit"><img src="{{ "/images/teamphotos/Fennec_Fox2.jpg" | absolute_url }}" alt="" /></span>
         </div>
         <div class="9u">
             The fennec fox or fennec (Vulpes zerda) is a small nocturnal fox found in the Sahara of North Africa, the Sinai Peninsula, and the Arabian desert. Its most distinctive feature is its unusually large ears, which also serve to dissipate heat. Its name comes from the Berber word (fanak), which means fox, and the species name zerda comes from the Greek word xeros which means dry, referring to the fox's habitat. The fennec is the smallest species of canid. Its coat, ears, and kidney functions have adapted to high-temperature, low-water, desert environments. Also, its hearing is sensitive enough to hear prey moving underground. It mainly eats insects, small mammals, and birds.
