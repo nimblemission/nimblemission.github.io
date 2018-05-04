@@ -160,9 +160,9 @@ sitemap:
 </div>
 
 
-<!-- 
+
 ## Ames Research Center
-### Steve Howell -->
+### Steve Howell
 <div class="box alt">
     <div class="row 50% uniform">
         <div class="9u">
