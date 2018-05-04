@@ -146,8 +146,8 @@ sitemap:
     </div>
 </div>
 
-<!-- ## University of Maryland, Baltimore County
-### Tom Barclay -->
+## University of Maryland, Baltimore County
+### Tom Barclay
 <div class="box alt">
     <div class="row 50% uniform">
         <div class="9u">
@@ -163,16 +163,16 @@ sitemap:
 <!-- 
 ## Ames Research Center
 ### Steve Howell -->
-<!-- <div class="box alt">
+<div class="box alt">
     <div class="row 50% uniform">
         <div class="9u">
-            Tom ...
+            Steve ...
         </div>
         <div class="3u">
             <span class="image fit"><img src="{{ "/images/teamphotos/steve.jpg" | absolute_url }}" alt="" /></span>
         </div>
     </div>
-</div> -->
+</div>
 
 <!--
 ## Australian National University
