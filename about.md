@@ -12,11 +12,7 @@ sitemap:
 <div class="box alt">
     <div class="row 50% uniform">
         <div class="9u">
-            Reinhold Schneider was a German poet who also wrote novels. Initially his works were less religious, but later his poetry had a Christian and specifically Catholic influence. His first works included ones about Luís de Camões and Portugal.
-            <br>
-            He had written anti-war poems, which were banned in Nazi Germany. Las Casas (1938) had analysed the ways Christians should respond to state oppression, and had criticised Nazi persecution and anti-Semitism; this led to the ban on publishing his works.
-            <br>
-            During the war associates of Schneider were in the 'Kreisau Circle' and the 'Freiburger Konzil' which had links with anti-Nazi resistance. His works were still published in Karl Ludwig Freiherr von und zu Guttenbergs journal White Papers and "underground", and tracts were distributed to soldiers at the front. Though he was accused of treason by authoring defeatist literature, the war ended before he could be tried.
+            Josh serves as PI for the Nimble Explorer
         </div>
         <div class="3u">
             <span class="image fit"><img src="{{ "/images/teamphotos/josh.jpg" | absolute_url }}" alt="" /></span>
@@ -152,7 +148,7 @@ sitemap:
 
 <!-- ## University of Maryland, Baltimore County
 ### Tom Barclay -->
-<!-- <div class="box alt">
+<div class="box alt">
     <div class="row 50% uniform">
         <div class="9u">
             Tom ...
@@ -161,7 +157,7 @@ sitemap:
             <span class="image fit"><img src="{{ "/images/teamphotos/tom.jpg" | absolute_url }}" alt="" /></span>
         </div>
     </div>
-</div> -->
+</div>
 
 
 <!-- 
